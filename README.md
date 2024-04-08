@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 * 🌍  I hail from Aurangabad, Maharashtra.
 * 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
 * ✉️  You can contact me at [saurav178chavan@gmail.comm](mailto:saurav178chavan@gmail.com)
-* ⭐ My latest project [Myntra.com](https://saurav01myntra.netlify.app/) selected in Top      Project in Masai School
+* ⭐ My latest project [Myntra.com](https://saurav01myntraa.netlify.app/) selected in Top      Project in Masai School
 <br />
 <hr>
 
