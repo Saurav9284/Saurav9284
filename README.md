@@ -14,7 +14,7 @@
 <h4 align="center">
 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
 <br/>
-
+* ⭐  Currently learning TypeScript, GraphQl
 * 🌍  I hail from Aurangabad, Maharashtra.
 * 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
 * ✉️  You can contact me at [saurav178chavan@gmail.comm](mailto:saurav178chavan@gmail.com)
