@@ -17,7 +17,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 - ⭐ Currently learning TypeScript, GraphQl
  
-- 🌍  I hail from Aurangabad, Maharashtra.
+- 🌍  I hail from Pune, Maharashtra.
 
 - 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
 
