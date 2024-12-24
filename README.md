@@ -21,7 +21,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 - 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
 
-- ✉️  You can contact me at [saurav178chavan@gmail.comm](mailto:saurav178chavan@gmail.com)
+- ✉️  You can contact me at [saurav178chavan@gmail.com](mailto:saurav178chavan@gmail.com)
 
 - ⭐ My latest project [Myntra.com](https://saurav01myntraa.netlify.app/) selected in Top      Project in Masai School
 <br />
